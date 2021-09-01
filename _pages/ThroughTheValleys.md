@@ -42,7 +42,7 @@ In order to properly install the list, you will need a clean install of Oblivion
 * Install Oblivion to a nonprotected folder. You can use [this tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to change the location of your steam library.
   * Typically, installing the game and modlist to an SSD will show increased performance compared to an HDD
 * If you use steam, disable the steam overlay.
-* Run the Oblivion Launcher, navigate to settings and select Ultra High Quality. Select the appropriate resolution from you and tick windowed mode on.
+* Run the Oblivion Launcher, navigate to settings and select Ultra High Quality. Select the appropriate resolution from you and tick windowed mode on. Oblivion by default does not allow HDR and anti-aliasing to be enabled at the same time. I keep HDR on and anti-aliasing off. I suggest you use the same settings, but your mileage may vary.
 * Press ok and launch the game, exiting once you reach the main menu.
 
 ### Installing the list
