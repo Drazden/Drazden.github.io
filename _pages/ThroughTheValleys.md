@@ -118,6 +118,9 @@ Support is available in the [Wabbajack Discord](https://discord.gg/wabbajack). T
 
 Furthermore, Oblivion is an old game. It frequently strange issues with new hardware. If you run into a bug or crash, load up the game to see if it happens consistently. I also recommend googling solutions for in game errors before asking for support. For example, AMD graphics cards are notoriously buggy with Oblivion, but there are workarounds online. I wish that I and the rest of the team were familiar with every possible glitch in Oblivion but that is simply not possible.
 
+## Addition or Removal of mods
+
+Understandably, you may be interested in editing the list to suit your personal tastes. If you wish to pursue this, please do not ask for help in the support channel for the list, and stick to the general oblivion channel. I'm always happy to help people learn to mod, but I suggest reading over [these tutorials](https://github.com/LivelyDismay/Learn-To-Mod/wiki) compiled by Lively to get started.
 
 ## Credits and Thanks
 
