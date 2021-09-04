@@ -96,9 +96,17 @@ Updating follows the same steps as installing, simply download the new version o
 
 ## Common Issues
 
-The game will not launch, or it does but feels very slow or very fast.
+The game will not launch.
 
 * Sometimes, the Oblivion.ini is not correctly initialized. Repeat the installation, be sure to run the Oblivion Launcher and rerun Wabbajack.
+
+Strange physics issues, sped up or slowed down animation times.
+
+* Possible fixes including capping your framerate to 60 in your graphics drivers software (Nvidia or AMD), or disabling the fps fix in the Oblivion display tweaks ini.
+
+Cursor is not locking or has issues with multiple monitors.
+
+* Set bBackgroundMouse to 0 in your oblivion.ini
 
 OBSE is not running properly, the game is not fullscreen, etc.
 
