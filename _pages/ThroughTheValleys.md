@@ -80,6 +80,8 @@ Updating follows the same steps as installing, simply download the new version o
 * Optionally, if you would like nicer distant LOD at a very high performance cost, enable *all* of the mods underneath the LOD separator. Seriously, this will cause stutters.
 * Optionally, enable "Draz Tweaks" under Final Steps for my personal tweaks. Currently it only increases the amount you can carry.
 * You are now go for launch! The game will always be launched using Oblivion.exe from within MO2. Ignore the OBSE executables!
+* Read that again! Launch the game from Oblivion.exe from within MO2!
+* A third time! ***LAUNCH THE GAME FROM OBLIVION.EXE FROM WITHIN MO2. DO NOT LAUNCH OBSE!***
 
 ## Mods to Get Familiar With
 
