@@ -78,7 +78,7 @@ Updating follows the same steps as installing, simply download the new version o
 
 * Run Mod Organizer 2 from within the installation folder.
 * Optionally, if you would like nicer distant LOD at a very high performance cost, enable *all* of the mods underneath the LOD separator. Seriously, this will cause stutters.
-* Optionally, enable NorthernUIAway under the 'UI' separator to allow for controller support.
+* Optionally, enable NorthernUIAway under the 'UI' separator to allow for controller support. Also, disable Simple Better Inventory and Map.
 * Optionally, enable "Draz Tweaks" under Final Steps for my personal tweaks. Currently it only increases the amount you can carry.
 * If you are using widescreen, use the following instructions, courtesy Sam
  * Open the INI Editor in MO2 (jigsaw/puzzle icon on the top bar).
