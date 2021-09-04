@@ -78,7 +78,13 @@ Updating follows the same steps as installing, simply download the new version o
 
 * Run Mod Organizer 2 from within the installation folder.
 * Optionally, if you would like nicer distant LOD at a very high performance cost, enable *all* of the mods underneath the LOD separator. Seriously, this will cause stutters.
+* Optionally, enable NorthernUIAway under the 'UI' separator to allow for controller support.
 * Optionally, enable "Draz Tweaks" under Final Steps for my personal tweaks. Currently it only increases the amount you can carry.
+* If you are using widescreen, use the following instructions, courtesy Sam
+ * Open the INI Editor in MO2 (jigsaw/puzzle icon on the top bar).
+ * Under [Display], change iSizeW and iSizeH to match your resolution. For example, for 1440p, iSizeW=3440 and iSizeH=1440.
+ * Download the Ultra Widescreen Fix for Bevilex from here and install through MO2, placing it in the Final Steps section.
+ * Download the Black Rectangle Ultrawide Fix from here, and install through MO2, placing it in the Final Steps section.
 * You are now go for launch! The game will always be launched using Oblivion.exe from within MO2. Ignore the OBSE executables!
 * Read that again! Launch the game from Oblivion.exe from within MO2!
 * A third time! ***LAUNCH THE GAME FROM OBLIVION.EXE FROM WITHIN MO2. DO NOT LAUNCH OBSE!***
