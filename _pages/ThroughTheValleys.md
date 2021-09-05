@@ -4,7 +4,7 @@ title: "Through The Valleys"
 permalink: /ThroughTheValleys/
 author_profile: true
 ---
-![GalleryTTV](https://github.com/Drazden/DrazSite/blob/main/Images/GalleryTTV.png?raw=true)
+![GalleryTTV](https://raw.githubusercontent.com/Drazden/Drazden.github.io/master/images/GalleryTTV.png)
 
 # Through The Valleys Wabbajack
 
