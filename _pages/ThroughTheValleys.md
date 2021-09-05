@@ -61,7 +61,7 @@ After wabbbajack displays the installation as complete, you may move on to this 
 
 * Close wabbajack and navigate to your installation folder.
 * Copy the *contents* of the "Game Folder Files" Folder to where your *Oblivion.exe is located*
-* Run the 4gb patch and apply it to OblivionLauncher.exe and Oblivion.exe.
+* Run the 4gb patch and apply it to OblivionLauncher.exe and Oblivion.exe (This step is not needed for GOG users).
 
 This step is imperative and skipping it will cause your game to not run.
 
