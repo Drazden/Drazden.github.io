@@ -128,6 +128,14 @@ FlipExSwap/D3D9.dll errors.
 
 * You have an ENB or something similar installed. The configuration of Oblivion display tweaks used in this list is incompatible with ENB.
 
+Certain parts of Castle Kvatch are grey voids
+
+* This is a minor, visual only glitch. I'm not sure what causes it.
+
+The game crashes after giving away weapons during "The Desolate Mine" Fighter's Guild quest.
+
+* I have 0 idea what causes this. Myself, Push, and other WJ testers cannot recreate this glitch. If someone can figure out how to reproduce this crash I can try to fix it.
+
 ## Troubleshooting and Support
 
 Support is available in the [Wabbajack Discord](https://discord.gg/wabbajack). The staff is made up solely of volunteers, so please have patient when seeking support. We cannot offer support if you add or remove any mods from the list.
