@@ -107,7 +107,7 @@ Strange physics issues, sped up or slowed down animation times.
 
 Cursor is not locking or has issues with multiple monitors.
 
-* Set bBackgroundMouse to 0 in your oblivion.ini
+* Set bBackground Mouse to 0 in your oblivion.ini
 
 OBSE is not running properly, the game is not fullscreen, etc.
 
